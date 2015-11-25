@@ -44,7 +44,7 @@
 }
 
 
-
+/* ************ La Liga  **************** */
 .flag-realmadrid {
   background-image: url(../svg/teams/la-liga/realmadrid.svg);
 }
@@ -272,6 +272,77 @@
   background-image: url(../svg/teams/nba/sanantoniospurs.svg);
 }
 /* ********************************** */
+
+
+/* ************ English premiere league  **************** */
+.flag-rugby-argentina {
+  background-image: url(../svg/teams/rugby/argentina.svg);
+}
+.flag-rugby-australia {
+  background-image: url(../svg/teams/rugby/australia.svg);
+}
+.flag-rugby-canada {
+  background-image: url(../svg/teams/rugby/canada.svg);
+}
+.flag-rugby-england {
+  background-image: url(../svg/teams/rugby/england.svg);
+}
+.flag-rugby-fiji {
+  background-image: url(../svg/teams/rugby/fiji.svg);
+}
+.flag-rugby-france {
+  background-image: url(../svg/teams/rugby/france.svg);
+}
+.flag-rugby-ireland {
+  background-image: url(../svg/teams/rugby/ireland.svg);
+}
+.flag-rugby-italy {
+  background-image: url(../svg/teams/rugby/italy.svg);
+}
+.flag-rugby-japan {
+  background-image: url(../svg/teams/rugby/japan.svg);
+}
+.flag-rugby-kenya {
+  background-image: url(../svg/teams/rugby/kenya.svg);
+}
+.flag-rugby-namibia {
+  background-image: url(../svg/teams/rugby/namibia.svg);
+}
+.flag-rugby-newzealand {
+  background-image: url(../svg/teams/rugby/newzealand.svg);
+}
+.flag-rugby-portugal {
+  background-image: url(../svg/teams/rugby/portugal.svg);
+}
+.flag-rugby-romania {
+  background-image: url(../svg/teams/rugby/romania.svg);
+}
+.flag-rugby-russia {
+  background-image: url(../svg/teams/rugby/russia.svg);
+}
+.flag-rugby-samoa {
+  background-image: url(../svg/teams/rugby/samoa.svg);
+}
+.flag-rugby-scotland {
+  background-image: url(../svg/teams/rugby/sctoland.svg);
+}
+.flag-rugby-southafrica {
+  background-image: url(../svg/teams/rugby/southafrica.svg);
+}
+.flag-rugby-tonga {
+  background-image: url(../svg/teams/rugby/tonga.svg);
+}
+.flag-rugby-uruguay {
+  background-image: url(../svg/teams/rugby/uruguay.svg);
+}
+.flag-rugby-usa {
+  background-image: url(../svg/teams/rugby/usa.svg);
+}
+.flag-rugby-wales {
+  background-image: url(../svg/teams/rugby/wales.svg);
+}
+
+
 
 
 
