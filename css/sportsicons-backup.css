@@ -1,9 +1,9 @@
-.si-background {
+.flag-icon-background {
   background-size: contain;
   background-position: 50%;
   background-repeat: no-repeat;
 }
-.si {
+.flag-icon {
   background-size: contain;
   background-position: 50%;
   background-repeat: no-repeat;
@@ -12,95 +12,95 @@
   width: 1.33333333em;
   line-height: 1em;
 }
-.si:before {
+.flag-icon:before {
   content: "\00a0";
 }
-.si.si-squared {
+.flag-icon.flag-icon-squared {
   width: 1em;
 }
 
 
-.si-invert{
+.flag-invert{
     filter: invert(100%);
     -webkit-filter: invert(100%);
 }
 
-.si-whiteshadow{
+.flag-whiteshadow{
     -webkit-filter: drop-shadow(0px 0px 25px #fff);
     filter: drop-shadow(0px 0px 25px #fff);
 }
 
-.si-24{
+.flag-24{
    font-size:24px;
 }
-.si-36{
+.flag-36{
    font-size:36px;
 }
-.si-48{
+.flag-48{
    font-size:48px;
 }
-.si-96{
+.flag-96{
    font-size:96px;
 }
-.si-128{
+.flag-128{
    font-size:128px;
 }
 
 
 
 /* ************ Europe  **************** */
-.si-europaleague {
+.flag-europaleague {
   background-image: url(../svg/teams/europe/europaleague.svg);
 }
-.si-championsleague {
+.flag-championsleague {
   background-image: url(../svg/teams/europe/championsleague.svg);
 }
 
 
 /* ************ La Liga  **************** */
-.si-realmadrid {
+.flag-realmadrid {
   background-image: url(../svg/teams/la-liga/realmadrid.svg);
 }
-.si-barcelonafc {
+.flag-barcelonafc {
   background-image: url(../svg/teams/la-liga/barcelonafc.svg);
 }
-.si-atleticomadridfc {
+.flag-atleticomadridfc {
   background-image: url(../svg/teams/la-liga/atleticomadridfc.svg);
 }
-.si-athleticobilbao {
+.flag-athleticobilbao {
   background-image: url(../svg/teams/la-liga/athleticobilbao.svg);
 }
-.si-betissevilla {
+.flag-betissevilla {
   background-image: url(../svg/teams/la-liga/betissevilla.svg);
 }
-.si-celtavigo {
+.flag-celtavigo {
   background-image: url(../svg/teams/la-liga/celtavigo.svg);
 }
-.si-deportivocoruna {
+.flag-deportivocoruna {
   background-image: url(../svg/teams/la-liga/deportivocoruna.svg);
 }
-.si-espanyolbarcelona {
+.flag-espanyolbarcelona {
   background-image: url(../svg/teams/la-liga/espanyolbarcelona.svg);
 }
-.si-fcsevilla {
+.flag-fcsevilla {
   background-image: url(../svg/teams/la-liga/fcsevilla.svg);
 }
-.si-getafe {
+.flag-getafe {
   background-image: url(../svg/teams/la-liga/getafe.svg);
 }
-.si-levante {
+.flag-levante {
   background-image: url(../svg/teams/la-liga/levante.svg);
 }
-.si-realsociedad {
+.flag-realsociedad {
   background-image: url(../svg/teams/la-liga/realsociedad.svg);
 }
-.si-villareal {
+.flag-villareal {
   background-image: url(../svg/teams/la-liga/villareal.svg);
 }
-.si-valenciafc {
+.flag-valenciafc {
   background-image: url(../svg/teams/la-liga/valenciafc.svg);
 }
-.si-realsantander {
+.flag-realsantander {
   background-image: url(../svg/teams/la-liga/realsantander.svg);
 }
 
@@ -108,66 +108,66 @@
 
 
 /* ************ English premiere league  **************** */
-.si-manchesterunited {
+.flag-manchesterunited {
   background-image: url(../svg/teams/epl/manchesterunited.svg);
 }
-.si-liverpoolfc {
+.flag-liverpoolfc {
   background-image: url(../svg/teams/epl/liverpoolfc.svg);
 }
-.si-manchestercity {
+.flag-manchestercity {
   background-image: url(../svg/teams/epl/manchestercity.svg);
 }
-.si-southsamptonfc {
+.flag-southsamptonfc {
   background-image: url(../svg/teams/epl/southsamptonfc.svg);
 }
-.si-tottenhamhotspur {
+.flag-tottenhamhotspur {
   background-image: url(../svg/teams/epl/tottenhamhotspur.svg);
 }
-.si-norwichcity {
+.flag-norwichcity {
   background-image: url(../svg/teams/epl/norwichcity.svg);
 }
-.si-newcastleunited {
+.flag-newcastleunited {
   background-image: url(../svg/teams/epl/newcastleunited.svg);
 }
-.si-evertonfc {
+.flag-evertonfc {
   background-image: url(../svg/teams/epl/evertonfc.svg);
 }
-.si-sunderland {
+.flag-sunderland {
   background-image: url(../svg/teams/epl/sunderland.svg);
 }
-.si-astonvilla {
+.flag-astonvilla {
   background-image: url(../svg/teams/epl/astonvilla.svg);
 }
-.si-chelsea {
+.flag-chelsea {
   background-image: url(../svg/teams/epl/chelsea.svg);
 }
 /* ********************************** */
 
 
 /* ************ Serie A  **************** */
-.si-seriea {
+.flag-seriea {
   background-image: url(../svg/teams/seriea/seriea.svg);
 }
-.si-intermilan {
+.flag-intermilan {
   background-image: url(../svg/teams/seriea/intermilan.svg);
 }
-.si-juventusturin {
+.flag-juventusturin {
   background-image: url(../svg/teams/seriea/juventusturin.svg);
 }
 /* ********************************** */
 
 
 /* ************ Bundesliga  **************** */
-.si-bundesliga {
+.flag-bundesliga {
   background-image: url(../svg/teams/bundesliga/bundesliga.svg);
 }
-.si-fcbayernmunchen {
+.flag-fcbayernmunchen {
   background-image: url(../svg/teams/bundesliga/fcbayernmunchen.svg);
 }
-.si-fcaugsburg {
+.flag-fcaugsburg {
   background-image: url(../svg/teams/bundesliga/fcaugsburg.svg);
 }
-.si-schalke04{
+.flag-schalke04{
   background-image: url(../svg/teams/bundesliga/schalke04.svg);
 }
 /* ********************************** */
@@ -175,67 +175,67 @@
 
 
 /* ************ Ligue 1  **************** */
-.si-ligue1 {
+.flag-ligue1 {
   background-image: url(../svg/teams/ligue1/ligue1.svg);
 }
-.si-asmonacofc {
+.flag-asmonacofc {
   background-image: url(../svg/teams/ligue1/asmonacofc.svg);
 }
-.si-lyon {
+.flag-lyon {
   background-image: url(../svg/teams/ligue1/lyon.svg);
 }
-.si-marseille {
+.flag-marseille {
   background-image: url(../svg/teams/ligue1/marseille.svg);
 }
-.si-parissg {
+.flag-parissg {
   background-image: url(../svg/teams/ligue1/parissg.svg);
 }
-.si-fclorient {
+.flag-fclorient {
   background-image: url(../svg/teams/ligue1/fclorient.svg);
 }
-.si-bordeaux {
+.flag-bordeaux {
   background-image: url(../svg/teams/ligue1/bordeaux.svg);
 }
-.si-cean {
+.flag-cean {
   background-image: url(../svg/teams/ligue1/cean.svg);
 }
-.si-reims {
+.flag-reims {
   background-image: url(../svg/teams/ligue1/reims.svg);
 }
-.si-ogcnice {
+.flag-ogcnice {
   background-image: url(../svg/teams/ligue1/ogcnice.svg);
 }
-.si-angers {
+.flag-angers {
   background-image: url(../svg/teams/ligue1/angers.svg);
 }
-.si-saintetienne {
+.flag-saintetienne {
   background-image: url(../svg/teams/ligue1/saintetienne.svg);
 }
-.si-rennes {
+.flag-rennes {
   background-image: url(../svg/teams/ligue1/rennes.svg);
 }
-.si-fcnantes {
+.flag-fcnantes {
   background-image: url(../svg/teams/ligue1/fcnantes.svg);
 }
-.si-montpellier {
+.flag-montpellier {
   background-image: url(../svg/teams/ligue1/montpellier.svg);
 }
-.si-lille {
+.flag-lille {
   background-image: url(../svg/teams/ligue1/lille.svg);
 }
-.si-troyes {
+.flag-troyes {
   background-image: url(../svg/teams/ligue1/troyes.svg);
 }
-.si-toulousefc {
+.flag-toulousefc {
   background-image: url(../svg/teams/ligue1/toulousefc.svg);
 }
-.si-scbastia {
+.flag-scbastia {
   background-image: url(../svg/teams/ligue1/scbastia.svg);
 }
-.si-guingamp {
+.flag-guingamp {
   background-image: url(../svg/teams/ligue1/guingamp.svg);
 }
-.si-gfcajaccio {
+.flag-gfcajaccio {
   background-image: url(../svg/teams/ligue1/gfcajaccio.svg);
 }
 /* ********************************** */
@@ -245,113 +245,113 @@
 
 
 /* ************ NBA  **************** */
-.si-nba {
+.flag-nba {
   background-image: url(../svg/teams/nba/nba.svg);
 }
-.si-bostonceltics {
+.flag-bostonceltics {
   background-image: url(../svg/teams/nba/bostonceltics.svg);
 }
-.si-brooklynnets {
+.flag-brooklynnets {
   background-image: url(../svg/teams/nba/brooklynnets.svg);
 }
-.si-chicagobulls {
+.flag-chicagobulls {
   background-image: url(../svg/teams/nba/chicagobulls.svg);
 }
-.si-indianapacers {
+.flag-indianapacers {
   background-image: url(../svg/teams/nba/indianapacers.svg);
 }
-.si-losangelesclippers {
+.flag-losangelesclippers {
   background-image: url(../svg/teams/nba/losangelesclippers.svg);
 }
-.si-losangeleslakers {
+.flag-losangeleslakers {
   background-image: url(../svg/teams/nba/losangeleslakers.svg);
 }
-.si-memphisgrizzlies {
+.flag-memphisgrizzlies {
   background-image: url(../svg/teams/nba/memphisgrizzlies.svg);
 }
-.si-miamiheats {
+.flag-miamiheats {
   background-image: url(../svg/teams/nba/miamiheats.svg);
 }
-.si-newyorkknicks {
+.flag-newyorkknicks {
   background-image: url(../svg/teams/nba/newyorkknicks.svg);
 }
-.si-orlandomagic {
+.flag-orlandomagic {
   background-image: url(../svg/teams/nba/orlandomagic.svg);
 }
-.si-phoenixsuns {
+.flag-phoenixsuns {
   background-image: url(../svg/teams/nba/phoenixsuns.svg);
 }
-.si-sanantoniospurs {
+.flag-sanantoniospurs {
   background-image: url(../svg/teams/nba/sanantoniospurs.svg);
 }
 /* ********************************** */
 
 
 /* ************ English premiere league  **************** */
-.si-rugby-argentina {
+.flag-rugby-argentina {
   background-image: url(../svg/teams/rugby/argentina.svg);
 }
-.si-rugby-australia {
+.flag-rugby-australia {
   background-image: url(../svg/teams/rugby/australia.svg);
 }
-.si-rugby-canada {
+.flag-rugby-canada {
   background-image: url(../svg/teams/rugby/canada.svg);
 }
-.si-rugby-england {
+.flag-rugby-england {
   background-image: url(../svg/teams/rugby/england.svg);
 }
-.si-rugby-fiji {
+.flag-rugby-fiji {
   background-image: url(../svg/teams/rugby/fiji.svg);
 }
-.si-rugby-france {
+.flag-rugby-france {
   background-image: url(../svg/teams/rugby/france.svg);
 }
-.si-rugby-ireland {
+.flag-rugby-ireland {
   background-image: url(../svg/teams/rugby/ireland.svg);
 }
-.si-rugby-italy {
+.flag-rugby-italy {
   background-image: url(../svg/teams/rugby/italy.svg);
 }
-.si-rugby-japan {
+.flag-rugby-japan {
   background-image: url(../svg/teams/rugby/japan.svg);
 }
-.si-rugby-kenya {
+.flag-rugby-kenya {
   background-image: url(../svg/teams/rugby/kenya.svg);
 }
-.si-rugby-namibia {
+.flag-rugby-namibia {
   background-image: url(../svg/teams/rugby/namibia.svg);
 }
-.si-rugby-newzealand {
+.flag-rugby-newzealand {
   background-image: url(../svg/teams/rugby/newzealand.svg);
 }
-.si-rugby-portugal {
+.flag-rugby-portugal {
   background-image: url(../svg/teams/rugby/portugal.svg);
 }
-.si-rugby-romania {
+.flag-rugby-romania {
   background-image: url(../svg/teams/rugby/romania.svg);
 }
-.si-rugby-russia {
+.flag-rugby-russia {
   background-image: url(../svg/teams/rugby/russia.svg);
 }
-.si-rugby-samoa {
+.flag-rugby-samoa {
   background-image: url(../svg/teams/rugby/samoa.svg);
 }
-.si-rugby-scotland {
+.flag-rugby-scotland {
   background-image: url(../svg/teams/rugby/scotland.svg);
 }
-.si-rugby-southafrica {
+.flag-rugby-southafrica {
   background-image: url(../svg/teams/rugby/southafrica.svg);
 }
-.si-rugby-tonga {
+.flag-rugby-tonga {
   background-image: url(../svg/teams/rugby/tonga.svg);
 }
-.si-rugby-uruguay {
+.flag-rugby-uruguay {
   background-image: url(../svg/teams/rugby/uruguay.svg);
 }
-.si-rugby-usa {
+.flag-rugby-usa {
   background-image: url(../svg/teams/rugby/usa.svg);
 }
-.si-rugby-wales {
+.flag-rugby-wales {
   background-image: url(../svg/teams/rugby/wales.svg);
 }
 
