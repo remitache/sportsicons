@@ -112,8 +112,8 @@
 .si-laspalmas {
   background-image: url(../svg/teams/la-liga/laspalmas.svg);
 }
-.si-laligabbva {
-  background-image: url(../svg/teams/la-liga/laspalmas.svg);
+.si-ligabbva {
+  background-image: url(../svg/teams/la-liga/ligabbva.svg);
 }
 .si-malaga {
   background-image: url(../svg/teams/la-liga/malaga.svg);
@@ -162,6 +162,33 @@
 }
 .si-chelsea {
   background-image: url(../svg/teams/epl/chelsea.svg);
+}
+.si-arsenal {
+  background-image: url(../svg/teams/epl/arsenal.svg);
+}
+.si-bournemouth {
+  background-image: url(../svg/teams/epl/bournemouth.svg);
+}
+.si-crystalpalace {
+  background-image: url(../svg/teams/epl/crystalpalace.svg);
+}
+.si-stokecity {
+  background-image: url(../svg/teams/epl/stokecity.svg);
+}
+.si-swanseacityfc {
+  background-image: url(../svg/teams/epl/swanseacityfc.svg);
+}
+.si-watfordfc {
+  background-image: url(../svg/teams/epl/watfordfc.svg);
+}
+.si-westbrom {
+  background-image: url(../svg/teams/epl/westbrom.svg);
+}
+.si-westham {
+  background-image: url(../svg/teams/epl/westham.svg);
+}
+.si-leicestercityfc {
+  background-image: url(../svg/teams/epl/leicestercityfc.svg);
 }
 /* ********************************** */
 
