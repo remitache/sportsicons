@@ -19,6 +19,7 @@
        .shadow_text{
            text-shadow: 4px 3px 0px #c22, 9px 8px 0px rgba(0, 0, 0, 0.15);
         }
+	.si:hover{cursor:pointer;}
         .spacing-padding{
           padding:15px 30px;
         }
@@ -308,6 +309,14 @@
     </footer>
 </div>
 </div>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script>
+$( ".si" ).click(function() {
+  alert( "<span class='" + $( this ).context.className + "'></span>" );
+});
+</script>
 
 </body>
 </html>
