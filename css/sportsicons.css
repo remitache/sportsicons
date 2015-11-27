@@ -55,6 +55,9 @@
 .si-championsleague {
   background-image: url(../svg/teams/europe/championsleague.svg);
 }
+.si-euro2016 {
+  background-image: url(../svg/teams/europe/euro2016.svg);
+}
 
 
 /* ************ La Liga  **************** */
@@ -130,6 +133,9 @@
 
 
 /* ************ English premiere league  **************** */
+.si-premierleague {
+  background-image: url(../svg/teams/epl/premierleague.svg);
+}
 .si-manchesterunited {
   background-image: url(../svg/teams/epl/manchesterunited.svg);
 }
@@ -218,6 +224,51 @@
 }
 .si-schalke04{
   background-image: url(../svg/teams/bundesliga/schalke04.svg);
+}
+.si-bayerleverkusen{
+  background-image: url(../svg/teams/bundesliga/bayerleverkusen.svg);
+}
+.si-darmstadt{
+  background-image: url(../svg/teams/bundesliga/darmstadt.svg);
+}
+.si-dortmund{
+  background-image: url(../svg/teams/bundesliga/dortmund.svg);
+}
+.si-frankfurt{
+  background-image: url(../svg/teams/bundesliga/frankfurt.svg);
+}
+.si-hamburger{
+  background-image: url(../svg/teams/bundesliga/hamburger.svg);
+}
+.si-hannover{
+  background-image: url(../svg/teams/bundesliga/hannover.svg);
+}
+.si-herthaberlin{
+  background-image: url(../svg/teams/bundesliga/herthaberlin.svg);
+}
+.si-hoffenheim{
+  background-image: url(../svg/teams/bundesliga/hoffenheim.svg);
+}
+.si-ingolstadt{
+  background-image: url(../svg/teams/bundesliga/ingolstadt.svg);
+}
+.si-koln{
+  background-image: url(../svg/teams/bundesliga/koln.svg);
+}
+.si-mainz{
+  background-image: url(../svg/teams/bundesliga/mainz.svg);
+}
+.si-monchengladbach{
+  background-image: url(../svg/teams/bundesliga/monchengladbach.svg);
+}
+.si-werderbremen{
+  background-image: url(../svg/teams/bundesliga/werderbremen.svg);
+}
+.si-stuttgart{
+  background-image: url(../svg/teams/bundesliga/stuttgart.svg);
+}
+.si-wolfsburg{
+  background-image: url(../svg/teams/bundesliga/wolfsburg.svg);
 }
 /* ********************************** */
 
