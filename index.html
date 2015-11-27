@@ -173,7 +173,7 @@
            <div class="highlight"><pre><code class="html"><span class="nt">&lt;span</span> <span class="na">class=</span><span class="s">"si si-championsleague"</span><span class="nt">&gt;&lt;/span&gt;</span></code></pre></div>
         </li>
 	 <li>
-           <p>You can add option to size it up (24, 36, 48, 96, 128, or you can custom the font-size by yourself):</p>
+           <p>You can add option to size it up (24, 36, 48, 96, 128, 256 or you can custom the font-size by yourself):</p>
 	   <span class="si si-championsleague si-96"></span>
            <div class="highlight"><pre><code class="html"><span class="nt">&lt;span</span> <span class="na">class=</span><span class="s">"si si-championsleague si-96"</span><span class="nt">&gt;&lt;/span&gt;</span></code></pre></div>
            
@@ -360,9 +360,16 @@
 <script>
 $( ".si" ).click(function() {
 
+ var msg = "<span class='" + $( this ).context.className + " si-126'></span>";
+  msg = "<span class='" + $( this ).context.className + " si-96'></span>";
+  msg += "<span class='" + $( this ).context.className + " si-48'></span>";
+  msg += "<span class='" + $( this ).context.className + " si-36'></span>";
+  msg += "<span class='" + $( this ).context.className + " si-24'></span>";
+  msg += "<pre><code>&lt;span class='" + $( this ).context.className + "'&gt;</span></code></pre>"
+
  BootstrapDialog.show({
 	    title: "Code",
-            message: "<span class='" + $( this ).context.className + "'></span><pre><code>&lt;span class='" + $( this ).context.className + "'&gt;</span></code></pre>"
+            message: msg
         });
 
 });
