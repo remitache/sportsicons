@@ -206,9 +206,6 @@
 .si-seriea {
   background-image: url(../svg/teams/seriea/seriea.svg);
 }
-.si-intermilan {
-  background-image: url(../svg/teams/seriea/intermilan.svg);
-}
 .si-juventusturin {
   background-image: url(../svg/teams/seriea/juventusturin.svg);
 }
@@ -454,6 +451,135 @@
 /* ********************************** */
 
 
+/* ************ Eredivise  **************** */
+.si-eredivise {
+  background-image: url(../svg/teams/eredivise/eredivise.svg);
+}
+.si-ajaxamsterdam {
+  background-image: url(../svg/teams/eredivise/ajaxamsterdam.svg);
+}
+
+
+/* ************ Portugal  **************** */
+.si-ligaportuguesa {
+  background-image: url(../svg/teams/portugal/ligaportuguesa.svg);
+}
+.si-belenenses {
+  background-image: url(../svg/teams/portugal/belenenses.svg);
+}
+.si-benficalisbon {
+  background-image: url(../svg/teams/portugal/benficalisbon.svg);
+}
+.si-boavista {
+  background-image: url(../svg/teams/portugal/boavista.svg);
+}
+.si-braga {
+  background-image: url(../svg/teams/portugal/braga.svg);
+}
+.si-coimbra {
+  background-image: url(../svg/teams/portugal/coimbra.svg);
+}
+.si-estorilpraia {
+  background-image: url(../svg/teams/portugal/estorilpraia.svg);
+}
+.si-fcarousa {
+  background-image: url(../svg/teams/portugal/fcarousa.svg);
+}
+.si-fcporto {
+  background-image: url(../svg/teams/portugal/fcporto.svg);
+}
+.si-maritimo {
+  background-image: url(../svg/teams/portugal/maritimo.svg);
+}
+.si-moreirense {
+  background-image: url(../svg/teams/portugal/moreirense.svg);
+}
+.si-nacional {
+  background-image: url(../svg/teams/portugal/nacional.svg);
+}
+.si-pacosferreira {
+  background-image: url(../svg/teams/portugal/pacosferreira.svg);
+}
+.si-rioavenue {
+  background-image: url(../svg/teams/portugal/rioavenue.svg);
+}
+.si-sportingportugal {
+  background-image: url(../svg/teams/portugal/sportingportugal.svg);
+}
+.si-tondela {
+  background-image: url(../svg/teams/portugal/tondela.svg);
+}
+.si-uniaodamadeira {
+  background-image: url(../svg/teams/portugal/uniaodamadeira.svg);
+}
+.si-victoriasetubal {
+  background-image: url(../svg/teams/portugal/victoriasetubal.svg);
+}
+.si-vitoria {
+  background-image: url(../svg/teams/portugal/vitoria.svg);
+}
+/* ********************************** */
+
+
+
+/* ************ AFL  **************** */
+.si-afl {
+  background-image: url(../svg/teams/afl/afl.svg);
+}
+.si-afl-brisbanelions {
+  background-image: url(../svg/teams/afl/brisbanelions.svg);
+}
+.si-afl-carltonfc {
+  background-image: url(../svg/teams/afl/carltonfc.svg);
+}
+.si-afl-collingwood {
+  background-image: url(../svg/teams/afl/collingwood.svg);
+}
+.si-afl-essendon {
+  background-image: url(../svg/teams/afl/essendon.svg);
+}
+.si-afl-freemantle {
+  background-image: url(../svg/teams/afl/freemantle.svg);
+}
+.si-afl-fremantledockers {
+  background-image: url(../svg/teams/afl/fremantledockers.svg);
+}
+.si-afl-geelong {
+  background-image: url(../svg/teams/afl/geelong.svg);
+}
+.si-afl-goalcoastsuns {
+  background-image: url(../svg/teams/afl/goalcoastsuns.svg);
+}
+.si-afl-hawthornhawks {
+  background-image: url(../svg/teams/afl/hawthornhawks.svg);
+}
+.si-afl-kangaroos {
+  background-image: url(../svg/teams/afl/kangaroos.svg);
+}
+.si-afl-melbroune {
+  background-image: url(../svg/teams/afl/melbroune.svg);
+}
+.si-afl-portadelaidepower {
+  background-image: url(../svg/teams/afl/portadelaidepower.svg);
+}
+.si-afl-richmondtigers {
+  background-image: url(../svg/teams/afl/richmondtigers.svg);
+}
+.si-afl-stkilda {
+  background-image: url(../svg/teams/afl/stkilda.svg);
+}
+.si-afl-sydneygiants {
+  background-image: url(../svg/teams/afl/sydneygiants.svg);
+}
+.si-afl-sydneyswans {
+  background-image: url(../svg/teams/afl/sydneyswans.svg);
+}
+.si-afl-westcoasteagles {
+  background-image: url(../svg/teams/afl/westcoasteagles.svg);
+}
+.si-afl-westernbulldogs {
+  background-image: url(../svg/teams/afl/westernbulldogs.svg);
+}
 
 
 
@@ -625,6 +751,9 @@
 
 
 /* ************ TOP 14  **************** */
+.si-rugby-top14 {
+  background-image: url(../svg/teams/rugby/france/top14.svg);
+}
 .si-rugby-cabrive {
   background-image: url(../svg/teams/rugby/france/cabrive.svg);
 }
