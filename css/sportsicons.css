@@ -334,6 +334,59 @@
 
 
 
+/* ************ Russia  **************** */
+.si-anzhimahachkala {
+  background-image: url(../svg/teams/russia/anzhimahachkala.svg);
+}
+.si-cskmoscow {
+  background-image: url(../svg/teams/russia/cskmoscow.svg);
+}
+.si-dynamomoscow {
+  background-image: url(../svg/teams/russia/dynamomoscow.svg);
+}
+.si-fcamkarpern {
+  background-image: url(../svg/teams/russia/fcamkarpern.svg);
+}
+.si-fckrasnodar {
+  background-image: url(../svg/teams/russia/fckrasnodar.svg);
+}
+.si-fckubankrasnodar {
+  background-image: url(../svg/teams/russia/fckubankrasnodar.svg);
+}
+.si-fcmordoviasaransk {
+  background-image: url(../svg/teams/russia/fcmordoviasaransk.svg);
+}
+.si-fcrostov {
+  background-image: url(../svg/teams/russia/fcrostov.svg);
+}
+.si-fcufa {
+  background-image: url(../svg/teams/russia/fcufa.svg);
+}
+.si-fkuralekaterinburg {
+  background-image: url(../svg/teams/russia/fkuralekaterinburg.svg);
+}
+.si-krylyasovetov {
+  background-image: url(../svg/teams/russia/krylyasovetov.svg);
+}
+.si-lokomotivmoscow {
+  background-image: url(../svg/teams/russia/lokomotivmoscow.svg);
+}
+.si-rubinkazan {
+  background-image: url(../svg/teams/russia/rubinkazan.svg);
+}
+.si-spartakmoscow {
+  background-image: url(../svg/teams/russia/spartakmoscow.svg);
+}
+.si-terekgrozny {
+  background-image: url(../svg/teams/russia/terekgrozny.svg);
+}
+.si-zenithsaintpetersbourg {
+  background-image: url(../svg/teams/russia/zenithsaintpetersbourg.svg);
+}
+
+
+
+
 /* ************ Ligue 1  **************** */
 .si-ligue1 {
   background-image: url(../svg/teams/ligue1/ligue1.svg);
@@ -411,9 +464,6 @@
 .si-bostonceltics {
   background-image: url(../svg/teams/nba/bostonceltics.svg);
 }
-.si-brooklynnets {
-  background-image: url(../svg/teams/nba/brooklynnets.svg);
-}
 .si-chicagobulls {
   background-image: url(../svg/teams/nba/chicagobulls.svg);
 }
@@ -443,6 +493,63 @@
 }
 .si-sanantoniospurs {
   background-image: url(../svg/teams/nba/sanantoniospurs.svg);
+}
+.si-atlantahawks {
+  background-image: url(../svg/teams/nba/atlantahawks.svg);
+}
+.si-brooklynnets {
+  background-image: url(../svg/teams/nba/brooklynnets.svg);
+}
+.si-charlottebobcats {
+  background-image: url(../svg/teams/nba/charlottebobcats.svg);
+}
+.si-clevelandcavaliers {
+  background-image: url(../svg/teams/nba/clevelandcavaliers.svg);
+}
+.si-denvernuggets {
+  background-image: url(../svg/teams/nba/denvernuggets.svg);
+}
+.si-dallasmaverricks {
+  background-image: url(../svg/teams/nba/dallasmaverricks.svg);
+}
+.si-detroitpistons {
+  background-image: url(../svg/teams/nba/detroitpistons.svg);
+}
+.si-goldenstatewarriors {
+  background-image: url(../svg/teams/nba/goldenstatewarriors.svg);
+}
+.si-houstonrockets {
+  background-image: url(../svg/teams/nba/houstonrockets.svg);
+}
+.si-milwaukeebucks {
+  background-image: url(../svg/teams/nba/milwaukeebucks.svg);
+}
+.si-minesotatimberwolves {
+  background-image: url(../svg/teams/nba/minesotatimberwolves.svg);
+}
+.si-neworleanshornets {
+  background-image: url(../svg/teams/nba/neworleanshornets.svg);
+}
+.si-oklahomathunder {
+  background-image: url(../svg/teams/nba/oklahomathunder.svg);
+}
+.si-philadelphia76ers {
+  background-image: url(../svg/teams/nba/philadelphia76ers.svg);
+}
+.si-portlandblazers {
+  background-image: url(../svg/teams/nba/portlandblazers.svg);
+}
+.si-sacramentokings {
+  background-image: url(../svg/teams/nba/sacramentokings.svg);
+}
+.si-torontoraptors {
+  background-image: url(../svg/teams/nba/torontoraptors.svg);
+}
+.si-utahjazz {
+  background-image: url(../svg/teams/nba/utahjazz.svg);
+}
+.si-washingtonwizards {
+  background-image: url(../svg/teams/nba/washingtonwizards.svg);
 }
 /* ********************************** */
 
