@@ -680,7 +680,7 @@
 /* ********************************** */
 
 
-/* ************ English premiere league  **************** */
+/* ************ Rugby Union  **************** */
 .si-rugby-argentina {
   background-image: url(../svg/teams/rugby/argentina.svg);
 }
@@ -747,7 +747,18 @@
 .si-rugby-wales {
   background-image: url(../svg/teams/rugby/wales.svg);
 }
-
+.si-rugby-germany {
+  background-image: url(../svg/teams/rugby/germany.svg);
+}
+.si-rugby-belgium {
+  background-image: url(../svg/teams/rugby/belgium.svg);
+}
+.si-rugby-spain {
+  background-image: url(../svg/teams/rugby/spain.svg);
+}
+.si-rugby-zimbabwe {
+  background-image: url(../svg/teams/rugby/zimbabwe.svg);
+}
 
 
 /* ************ TOP 14  **************** */
